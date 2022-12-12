@@ -1,3 +1,3 @@
 # pygame-battleship
 
-Gra w statyki stworzona w Pythonie przy użyciu biblioteki <b>pygame</b>.
+Gra w statyki stworzona w języku <b>Python</b> przy użyciu biblioteki <b>pygame</b>.
